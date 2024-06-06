@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Simple example of a CLI that keeps a persistent history of all the entered
 strings in a file. When you run this script for a second time, pressing

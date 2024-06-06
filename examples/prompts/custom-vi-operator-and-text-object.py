@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of adding a custom Vi operator and text object.
 (Note that this API is not guaranteed to remain stable.)

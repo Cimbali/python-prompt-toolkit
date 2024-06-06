@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of a call to `prompt` with a default value.
 The input is pre-filled, but the user can still edit the default.

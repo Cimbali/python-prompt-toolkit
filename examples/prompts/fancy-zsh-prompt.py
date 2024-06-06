@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of the fancy ZSH prompt that @anki-code was using.
 

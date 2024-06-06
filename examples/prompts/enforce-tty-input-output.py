@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 This will display a prompt that will always use the terminal for input and
 output, even if sys.stdin/stdout are connected to pipes.

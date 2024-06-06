@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of a 'dynamic' prompt. On that shows the current time in the prompt.
 """

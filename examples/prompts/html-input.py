@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Simple example of a syntax-highlighted HTML input line.
 (This requires Pygments to be installed.)

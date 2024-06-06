@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Styled similar to tqdm, another progress bar implementation in Python.
 

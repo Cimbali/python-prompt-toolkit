@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Similar to the autocompletion example. But display all the completions in multiple columns.
 """

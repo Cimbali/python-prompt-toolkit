@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 A simple example of a a text area displaying "Hello World!".
 """

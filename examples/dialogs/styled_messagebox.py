@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of a style dialog window.
 All dialog shortcuts take a `style` argument in order to apply a custom

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 This is an example of "prompt_toolkit.contrib.regular_languages" which
 implements a little calculator.

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 More complex demonstration of what's possible with the progress bar.
 """

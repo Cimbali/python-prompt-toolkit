@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 This is an example of how to prompt inside an application that uses the asyncio
 eventloop. The ``prompt_toolkit`` library will make sure that when other

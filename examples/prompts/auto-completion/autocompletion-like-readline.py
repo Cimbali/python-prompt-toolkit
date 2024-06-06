@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Autocompletion example that displays the autocompletions like readline does by
 binding a custom handler to the Tab key.

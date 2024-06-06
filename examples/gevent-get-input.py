@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 For testing: test to make sure that everything still works when gevent monkey
 patches are applied.

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 A simple example of a calculator program.
 This could be used as inspiration for a REPL.

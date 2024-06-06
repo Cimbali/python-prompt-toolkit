@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Printing a list of Pygments (Token, text) tuples,
 or an output of a Pygments lexer.

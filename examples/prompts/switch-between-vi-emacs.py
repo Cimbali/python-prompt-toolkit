@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example that displays how to switch between Emacs and Vi input mode.
 

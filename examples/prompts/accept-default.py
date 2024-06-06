@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of `accept_default`, a way to automatically accept the input that the
 user typed without allowing him/her to edit it.

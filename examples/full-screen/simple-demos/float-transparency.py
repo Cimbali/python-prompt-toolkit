@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of the 'transparency' attribute of `Window' when used in a Float.
 """

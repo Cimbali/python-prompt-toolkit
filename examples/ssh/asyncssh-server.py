@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of running a prompt_toolkit application in an asyncssh server.
 """

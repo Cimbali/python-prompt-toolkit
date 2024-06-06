@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Simple example of a custom, very slow history, that is loaded asynchronously.
 

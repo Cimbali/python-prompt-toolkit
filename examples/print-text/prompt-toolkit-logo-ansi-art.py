@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 r"""
 This prints the prompt_toolkit logo at the terminal.
 The ANSI output was generated using "pngtoansi": https://github.com/crgimenes/pngtoansi

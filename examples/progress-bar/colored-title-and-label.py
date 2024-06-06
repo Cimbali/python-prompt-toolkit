@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 A progress bar that displays a formatted title above the progress bar and has a
 colored label.

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Demonstration of a custom clipboard class.
 This requires the 'pyperclip' library to be installed.

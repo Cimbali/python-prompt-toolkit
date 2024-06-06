@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from prompt_toolkit import prompt
 from prompt_toolkit.shortcuts import set_title
 

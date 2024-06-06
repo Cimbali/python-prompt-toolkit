@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 An example of a custom lexer that prints the input text in random colors.
 """

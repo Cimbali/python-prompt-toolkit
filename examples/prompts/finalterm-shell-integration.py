@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Mark the start and end of the prompt with Final term (iterm2) escape sequences.
 See: https://iterm2.com/finalterm.html

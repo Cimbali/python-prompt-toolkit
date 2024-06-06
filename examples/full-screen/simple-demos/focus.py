@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Demonstration of how to programmatically focus a certain widget.
 """

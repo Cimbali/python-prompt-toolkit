@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of a telnet application that displays a bottom toolbar and completions
 in the prompt.

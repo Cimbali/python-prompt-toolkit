@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Demonstration of a custom completer wrapped in a `FuzzyCompleter` for fuzzy
 matching.

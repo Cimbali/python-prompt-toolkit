@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Demonstration of swapping light/dark colors in prompt_toolkit using the
 `swap_light_and_dark_colors` parameter.

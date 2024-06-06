@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example of a right prompt. This is an additional prompt that is displayed on
 the right side of the terminal. It will be hidden automatically when the input

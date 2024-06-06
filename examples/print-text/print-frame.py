@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Example usage of 'print_container', a tool to print
 any layout in a non-interactive way.

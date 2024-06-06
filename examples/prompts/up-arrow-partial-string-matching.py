@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Simple example of a CLI that demonstrates up-arrow partial string matching.
 

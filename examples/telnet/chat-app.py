@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 A simple chat application over telnet.
 Everyone that connects is asked for his name, and then people can chat with
